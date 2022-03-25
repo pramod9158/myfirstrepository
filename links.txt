@@ -1,4 +1,4 @@
-http://172.100.48.66:8088/DistributedBrix/
+http://172.100.48.66:8088/DistributedBrix//
 
 \\172.16.111.64\Share
 

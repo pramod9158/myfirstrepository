@@ -1,0 +1,15 @@
+http://172.100.48.66:8088/DistributedBrix//
+
+\\172.16.111.64\Share
+
+http://172.100.48.60:8080/brixlabv2.0.1/v1
+
+http://172.100.48.65:4043/DistributedBrix/projects
+
+share link with Mayur sir: \\172.16.111.64\Share\Pramod
+
+http://172.100.48.65:4043/DistributedBrix/#/dashboard
+
+https://pvmsys.sharepoint.com/sites/core/Lists/Timesheet/AllItems.aspx
+
+https://github.com/pramod9158/myfirstrepository.git

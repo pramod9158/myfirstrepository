@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.navbar-cart{
+    display: flex;
+    margin-right: 5px;
+}
+
+.cart{
+    margin-right: 10px;
+}
